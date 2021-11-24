@@ -13,7 +13,7 @@
 * SQS & Self Publishing Message Server - [sqs-publisher](https://github.com/awakelife93/sqs_publisher)
 * SQS Subscribe Server - [sqs-subscribe](https://github.com/awakelife93/sqs_subscribe)
 #
-### Utils
+### ETC
 * Mongo Data Export - [node-mongo-export](https://github.com/awakelife93/mongodb_documents_export)
 * Thumbnail Maker - [node-fluent-ffmpeg-s3](https://github.com/awakelife93/thumbnail_maker)
 * Study Clean Code - [study-clean-code](https://github.com/awakelife93/clean_code_study)

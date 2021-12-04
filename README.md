@@ -18,12 +18,15 @@
 * Thumbnail Maker - [node-fluent-ffmpeg-s3](https://github.com/awakelife93/thumbnail_maker)
 * Study Clean Code - [study-clean-code](https://github.com/awakelife93/clean_code_study)
 #
+## 😄 진행중
+* React-Native로 앱 개발
+* 전체 프로젝트 리팩토링 병행
+* SQS-Subscribe 개발 우선순위 높이기, 그 다음은 SQS-Publisher
+* openreplay 적용
+#
 ## 🤔 Todo
 * 전체 Repository 주석 정리 (for CleanCode & Remove Bad Comment)
-* 전체 프로젝트 리팩토링 병행
 * ddos 방지 차단 서버 만들기
-* SQS-Subscribe 개발 우선순위 높이기, 그 다음은 SQS-Publisher
-* React-Native로 앱 개발
 * Vapor로 서버 만들기 (Swift)
 * Deno로 크롤링 서버 만들기
 * Svelte 써보기

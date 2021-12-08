@@ -31,6 +31,7 @@
 * Vapor로 서버 만들기 (Swift)
 * Deno로 크롤링 서버 만들기
 * Svelte 써보기
+* Pollyjs 써보기
 * Django 프로젝트 만들기
 
 <!--

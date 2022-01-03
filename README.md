@@ -18,6 +18,7 @@
 * Mongo Data Export - [node-mongo-export](https://github.com/awakelife93/mongodb_documents_export)
 * Thumbnail Maker - [node-fluent-ffmpeg-s3](https://github.com/awakelife93/thumbnail_maker)
 * Study Clean Code - [study-clean-code](https://github.com/awakelife93/clean_code_study)
+* Lerna - [lerna](https://github.com/awakelife93/lerna_template)
 #
 ## 😄 진행중
 * React-Native로 앱 개발

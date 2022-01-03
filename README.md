@@ -24,6 +24,7 @@
 * 전체 프로젝트 리팩토링 병행
 * SQS-Subscribe 개발 우선순위 높이기, 그 다음은 SQS-Publisher
 * openreplay 적용
+* lerna 적용
 #
 ## 🤔 Todo
 * 전체 Repository 주석 정리 (for CleanCode & Remove Bad Comment)

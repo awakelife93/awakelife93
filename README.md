@@ -39,6 +39,7 @@
 * Svelte 써보기
 * Pollyjs 써보기
 * Django 프로젝트 만들기
+* any type 벗겨내기
 
 <!--
 **HyunwooP/HyunwooP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -30,7 +30,9 @@
 #
 ## 🤔 Todo
 * 전체 Repository 주석 정리 (for CleanCode & Remove Bad Comment)
-* 전체 Repository import 경로 alias 작업
+* 전체 Repository import 경로 alias 개발
+* front project에 redux toolkit도 개발
+* front project에 공통 에러 처리 로직 개발
 * ddos 방지 차단 서버 만들기
 * Vapor로 서버 만들기 (Swift)
 * Deno로 크롤링 서버 만들기

@@ -27,11 +27,7 @@
 * SQS-Subscribe 개발 우선순위 높이기, 그 다음은 SQS-Publisher
 * lerna 적용
 * 웹 접근성 높이는 작업 병행
-* any type 벗겨내기
-* Circuit Breaker 붙이기
-* 1. Gateway Server - [java-springboot-gateway](https://github.com/awakelife93/study_spring_boot) + hystrix
-* 2. SQS & Self Publishing Message Server - [sqs-publisher](https://github.com/awakelife93/sqs_publisher) -> Circuit Breaker Server -> SQS Subscribe Server - [sqs-subscribe](https://github.com/awakelife93/sqs_subscribe)
-* 
+* any type 벗겨내기  
 #
 ## 🤔 Todo
 * 전체 Repository 주석 정리 (for CleanCode & Remove Bad Comment)
@@ -44,6 +40,7 @@
 * Svelte 써보기
 * Pollyjs 써보기
 * Django 프로젝트 만들기
+* Circuit Breaker 붙이기
 
 <!--
 **HyunwooP/HyunwooP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

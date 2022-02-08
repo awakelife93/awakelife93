@@ -40,7 +40,7 @@
 * Svelte 써보기
 * Pollyjs 써보기
 * Django 프로젝트 만들기
-* Circuit Breaker 붙이기 [java-springboot-gateway](https://github.com/awakelife93/study_spring_boot) - hystrix, SQS pub/sub 프로젝트를 위한 노드 서버 개발
+* Circuit Breaker 붙이기
 
 <!--
 **HyunwooP/HyunwooP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

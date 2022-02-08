@@ -28,6 +28,10 @@
 * lerna 적용
 * 웹 접근성 높이는 작업 병행
 * any type 벗겨내기
+* Circuit Breaker 붙이기
+* 1. Gateway Server - [java-springboot-gateway](https://github.com/awakelife93/study_spring_boot) + hystrix
+* 2. SQS & Self Publishing Message Server - [sqs-publisher](https://github.com/awakelife93/sqs_publisher) -> Circuit Breaker Server -> SQS Subscribe Server - [sqs-subscribe](https://github.com/awakelife93/sqs_subscribe)
+* 
 #
 ## 🤔 Todo
 * 전체 Repository 주석 정리 (for CleanCode & Remove Bad Comment)

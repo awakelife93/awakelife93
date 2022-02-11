@@ -27,7 +27,8 @@
 * SQS-Subscribe 개발 우선순위 높이기, 그 다음은 SQS-Publisher
 * lerna 적용
 * 웹 접근성 높이는 작업 병행
-* any type 벗겨내기  
+* any type 벗겨내기
+* Circuit Breaker 만들기
 #
 ## 🤔 Todo
 * 전체 Repository 주석 정리 (for CleanCode & Remove Bad Comment)
@@ -40,7 +41,6 @@
 * Svelte 써보기
 * Pollyjs 써보기
 * Django 프로젝트 만들기
-* Circuit Breaker 만들기
 <!--
 **HyunwooP/HyunwooP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

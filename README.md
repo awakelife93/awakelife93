@@ -28,7 +28,7 @@
 * lerna 적용
 * 웹 접근성 높이는 작업 병행
 * any type 벗겨내기
-* Circuit Breaker 만들기
+* Circuit Breaker 개발
 #
 ## 🤔 Todo
 * 전체 Repository 주석 정리 (for CleanCode & Remove Bad Comment)

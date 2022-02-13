@@ -41,6 +41,7 @@
 * Svelte 써보기
 * Pollyjs 써보기
 * Django 프로젝트 만들기
+* 공통 로깅 서버 만들기
 <!--
 **HyunwooP/HyunwooP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

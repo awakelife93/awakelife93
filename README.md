@@ -28,13 +28,13 @@
 * lerna 적용
 * 웹 접근성 높이는 작업 병행
 * any type 벗겨내기
-* Circuit Breaker 개발
 #
 ## 🤔 Todo
 * 전체 Repository 주석 정리 (for CleanCode & Remove Bad Comment)
 * 전체 Repository import 경로 alias 개발
 * Front Project에 redux toolkit 방식도 개발
 * Front Project에 공통 에러 처리 로직 개발
+* Front Project에 Circuit Breaker FallBack 처리하기
 * DDOS 방지 차단 서버 만들기
 * Vapor로 서버 만들기 (Swift)
 * Deno로 크롤링 서버 만들기

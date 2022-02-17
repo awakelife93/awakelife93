@@ -35,7 +35,6 @@
 * Front Project에 redux toolkit 방식도 개발
 * Front Project에 redux action별 return type 추가
 * Front Project에 공통 에러 처리 로직 개발
-* Front Project에 Circuit Breaker FallBack 처리하기
 * DDOS 방지 차단 서버 만들기
 * Vapor로 서버 만들기 (Swift)
 * Deno로 크롤링 서버 만들기

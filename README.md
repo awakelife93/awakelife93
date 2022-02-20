@@ -24,10 +24,8 @@
 ## 😄 진행중
 * React-Native로 앱 개발
 * 전체 프로젝트 리팩토링 병행
-* SQS-Subscribe 개발 우선순위 높이기, 그 다음은 SQS-Publisher
 * lerna 적용
 * 웹 접근성 높이는 작업 병행
-* Front Project에 redux action별 return type 추가
 #
 ## 🤔 Todo
 * 전체 Repository import 경로 alias 개발

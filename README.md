@@ -27,18 +27,13 @@
 * SQS-Subscribe 개발 우선순위 높이기, 그 다음은 SQS-Publisher
 * lerna 적용
 * 웹 접근성 높이는 작업 병행
-* any type 벗겨내기
+* Front Project에 redux action별 return type 추가
 #
 ## 🤔 Todo
-* 전체 Repository 주석 정리 (for CleanCode & Remove Bad Comment)
 * 전체 Repository import 경로 alias 개발
-* Front Project에 redux action별 return type 추가
-* Front Project에 공통 에러 처리 로직 개발
-* DDOS 방지 차단 서버 만들기
 * Vapor로 서버 만들기 (Swift)
 * Deno로 크롤링 서버 만들기
 * Svelte 써보기
-* Pollyjs 써보기
 * Django 프로젝트 만들기
 * 공통 로깅 서버 만들기
 <!--

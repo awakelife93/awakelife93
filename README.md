@@ -1,7 +1,7 @@
 ### Hi there 👋
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=awakelife93&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=awakelife93&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-## 여행기
+## GoGae(고독한 개발자) 여행기
 * GoGae - [gogae](https://github.com/awakelife93/gogae)
 ## Client
 * Web Front - [react-client](https://github.com/awakelife93/react_client_template)

@@ -23,11 +23,11 @@
 * Lerna - [lerna](https://github.com/awakelife93/lerna_template)
 #
 ## 😄 진행중
-* 전체 Repository import 경로 alias 개발
 * React-Native로 앱 개발
 * 전체 프로젝트 리팩토링 병행
 * lerna 적용
 * 웹 접근성 높이는 작업 병행
+* TS 프로젝트 중 strict 검사 안하는 것들 작업하기
 #
 ## 🤔 Todo
 * Vapor로 서버 만들기 (Swift)
@@ -35,7 +35,6 @@
 * Svelte 써보기
 * Django 프로젝트 만들기
 * 공통 로깅 서버 만들기
-* TS 프로젝트 중 strict 검사 안하는 것들 작업하기
 <!--
 **HyunwooP/HyunwooP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -32,6 +32,7 @@
 * client 프로젝트들 VoidFunction type으로 수정하기
 #
 ## 🤔 Todo
+* spring boot get, post ... method로 통일 한 것을 -> 각 도메인 api로 늘리면서 바꾸기
 * Vapor로 서버 만들기 (Swift)
 * Deno로 크롤링 서버 만들기
 * Svelte 써보기

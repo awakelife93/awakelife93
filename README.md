@@ -28,6 +28,7 @@
 * 전체 프로젝트 리팩토링 병행
 * lerna 적용
 * 웹 접근성 높이는 작업 병행
+* 현재 api validation 로직 -> class-validator로 리팩토링 하기.
 #
 ## 🤔 Todo
 * Vapor로 서버 만들기 (Swift)

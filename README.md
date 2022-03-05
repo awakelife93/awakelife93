@@ -28,10 +28,9 @@
 * 전체 프로젝트 리팩토링 병행
 * lerna 적용
 * 웹 접근성 높이는 작업 병행
-* client 프로젝트들 VoidFunction type으로 수정하기
+* spring boot get, post ... method로 통일 한 것을 -> 각 도메인 api로 늘리면서 바꾸기
 #
 ## 🤔 Todo
-* spring boot get, post ... method로 통일 한 것을 -> 각 도메인 api로 늘리면서 바꾸기
 * Vapor로 서버 만들기 (Swift)
 * Deno로 크롤링 서버 만들기
 * Svelte 써보기

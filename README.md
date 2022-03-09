@@ -28,7 +28,7 @@
 * 전체 프로젝트 리팩토링 병행
 * lerna 적용
 * 웹 접근성 높이는 작업 병행
-* spring boot get, post ... method로 통일 한 것을 -> 각 도메인 api로 늘리면서 바꾸기
+* 각 프로젝트 별 포트 고정 작업
 #
 ## 🤔 Todo
 * Vapor로 서버 만들기 (Swift)

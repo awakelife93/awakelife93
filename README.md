@@ -12,7 +12,7 @@
 ## Server
 * API Server - [node-api](https://github.com/awakelife93/node_api_server)
 * Design API Server - [node-design-api](https://github.com/awakelife93/node_design_server)
-* Gateway Server - [java-springboot-gateway](https://github.com/awakelife93/study_spring_boot)
+* Gateway Server - [spring-boot-gateway](https://github.com/awakelife93/study_spring_boot)
 * SQS & Self Publishing Message Server - [sqs-publisher](https://github.com/awakelife93/sqs_publisher)
 * SQS Subscribe Server - [sqs-subscribe](https://github.com/awakelife93/sqs_subscribe)
 #

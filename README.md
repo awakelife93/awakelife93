@@ -29,6 +29,7 @@
 * lerna 적용
 * 웹 접근성 높이는 작업 병행
 * 각 프로젝트 별 포트 고정 작업
+* spring boot gateway 서버에서 특정 API에 따른 토크 유무 검사해서 node 서버에 요청 보내지 말고 error 응답 보내기
 #
 ## 🤔 Todo
 * Vapor로 서버 만들기 (Swift)

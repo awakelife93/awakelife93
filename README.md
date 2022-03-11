@@ -22,21 +22,6 @@
 * Study Clean Code - [study-clean-code](https://github.com/awakelife93/clean_code_study)
 * Study Algorithm - [study-algorithm](https://github.com/awakelife93/study-algorithm)
 * Lerna - [lerna](https://github.com/awakelife93/lerna_template)
-#
-## 😄 진행중
-* React-Native로 앱 개발
-* 전체 프로젝트 리팩토링 병행
-* lerna 적용
-* 웹 접근성 높이는 작업 병행
-* 각 프로젝트 별 포트 고정 작업
-* spring boot gateway 서버에서 특정 API에 따른 토크 유무 검사해서 node 서버에 요청 보내지 말고 error 응답 보내기
-#
-## 🤔 Todo
-* Vapor로 서버 만들기 (Swift)
-* Deno로 크롤링 서버 만들기
-* Svelte 써보기
-* Django 프로젝트 만들기
-* 공통 로깅 서버 만들기
 <!--
 **HyunwooP/HyunwooP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

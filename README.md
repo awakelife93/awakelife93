@@ -19,9 +19,6 @@
 ## ETC
 * Mongo Data Export - [node-mongo-export](https://github.com/awakelife93/mongodb_documents_export)
 * Thumbnail Maker - [node-fluent-ffmpeg-s3](https://github.com/awakelife93/thumbnail_maker)
-* Study Clean Code - [study-clean-code](https://github.com/awakelife93/clean_code_study)
-* Study Algorithm - [study-algorithm](https://github.com/awakelife93/study-algorithm)
-* Lerna - [lerna](https://github.com/awakelife93/lerna_template)
 <!--
 **HyunwooP/HyunwooP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

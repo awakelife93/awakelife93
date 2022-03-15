@@ -15,9 +15,9 @@
 * Gateway Server - [spring-boot-gateway](https://github.com/awakelife93/study_spring_boot)
 #
 ## Message Queue
-* SQS Publishing Server - [sqs-publisher](https://github.com/awakelife93/sqs_publisher)
-* SQS Subscribe Server - [sqs-subscribe](https://github.com/awakelife93/sqs_subscribe)
-* Kafka Publishing Server - [kafka-publisher](https://github.com/awakelife93/spring-kafka)
+* SQS Pup/Sub Server - [sqs-pubsub](https://github.com/awakelife93/sqs_pubsub)
+* Action Server To SQS Message  - [sqs-action](https://github.com/awakelife93/sqs_message_action)
+* Kafka Pub/Sub Server - [kafka-publisher](https://github.com/awakelife93/spring_kafka)
 #
 ## ETC
 * Mongo Data Export - [node-mongo-export](https://github.com/awakelife93/mongodb_documents_export)

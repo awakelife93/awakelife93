@@ -15,7 +15,7 @@
 * Gateway Server - [spring-boot-gateway](https://github.com/awakelife93/study_spring_boot)
 #
 ## Message Queue
-* SQS Publishing(Self) Server - [sqs-publisher](https://github.com/awakelife93/sqs_publisher)
+* SQS Publishing Server - [sqs-publisher](https://github.com/awakelife93/sqs_publisher)
 * SQS Subscribe Server - [sqs-subscribe](https://github.com/awakelife93/sqs_subscribe)
 * Kafka Publishing Server - [kafka-publisher](https://github.com/awakelife93/spring-kafka)
 #

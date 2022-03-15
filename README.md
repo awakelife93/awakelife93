@@ -13,8 +13,11 @@
 * API Server - [node-api](https://github.com/awakelife93/node_api_server)
 * Design API Server - [node-design-api](https://github.com/awakelife93/node_design_server)
 * Gateway Server - [spring-boot-gateway](https://github.com/awakelife93/study_spring_boot)
-* SQS & Self Publishing Message Server - [sqs-publisher](https://github.com/awakelife93/sqs_publisher)
+#
+## Message Queue
+* SQS Publishing(Self) Server - [sqs-publisher](https://github.com/awakelife93/sqs_publisher)
 * SQS Subscribe Server - [sqs-subscribe](https://github.com/awakelife93/sqs_subscribe)
+* Kafka Publishing Server - [kafka-publisher](https://github.com/awakelife93/spring-kafka)
 #
 ## ETC
 * Mongo Data Export - [node-mongo-export](https://github.com/awakelife93/mongodb_documents_export)

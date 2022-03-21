@@ -16,7 +16,7 @@
 #
 ## Message Queue
 * SQS Pup/Sub Server - [node-sqs-pubsub](https://github.com/awakelife93/node-sqs-pubsub)
-* Action Server To Message Queue  - [node-message-action](https://github.com/awakelife93/node-message-action)
+* Action Server For Message Queue  - [node-message-action](https://github.com/awakelife93/node-message-action)
 * Kafka Pub/Sub Server - [spring-boot-kafka-pubsub](https://github.com/awakelife93/spring-boot-kafka-pubsub)
 #
 ## ETC

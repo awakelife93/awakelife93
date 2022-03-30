@@ -20,7 +20,6 @@
 * Kafka Pub/Sub Server - [spring-boot-kafka-pubsub](https://github.com/awakelife93/spring-boot-kafka-pubsub)
 #
 ## ETC
-* Mongo Data Export - [node-mongo-export](https://github.com/awakelife93/mongodb_documents_export)
 * Thumbnail Maker - [node-fluent-ffmpeg-s3](https://github.com/awakelife93/thumbnail_maker)
 <!--
 **HyunwooP/HyunwooP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -5,14 +5,14 @@
 ## GoGae(고독한 개발자) 여행기
 * [gogae](https://github.com/awakelife93/gogae)
 ## Client
-* Web Front - [react-client](https://github.com/awakelife93/react-template)
-* Web Front - [react-admin](https://github.com/awakelife93/react-admin-template)
+* Web Front - [react-boilerplate](https://github.com/awakelife93/react-boilerplate)
+* Web Front - [react-admin-boilerplate](https://github.com/awakelife93/react-admin-boilerplate)
 * Mobile App - [react-native](https://github.com/awakelife93/react-native-template)
 #
 ## Server
-* API Server - [node-api](https://github.com/awakelife93/node-api-template)
-* Design API Server - [node-design-api](https://github.com/awakelife93/node-design-template)
-* Gateway Server - [spring-boot-gateway](https://github.com/awakelife93/spring-boot-gateway)
+* API Server - [express-boilerplate](https://github.com/awakelife93/express-boilerplate)
+* Design API Server - [express-design-system-boilerplate](https://github.com/awakelife93/express-design-system-boilerplate)
+* Gateway Server - [spring-boot-api-gateway](https://github.com/awakelife93/spring-boot-api-gateway)
 #
 ## Message Queue
 * RabbitMQ Pup/Sub Server - [node-rabbitmq-pubsub](https://github.com/awakelife93/node-rabbitmq-pubsub)

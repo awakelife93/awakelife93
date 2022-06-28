@@ -14,7 +14,7 @@
 * Design API Server - [express-design-system-boilerplate](https://github.com/awakelife93/express-design-system-boilerplate)
 * Gateway Server - [spring-boot-api-gateway](https://github.com/awakelife93/spring-boot-api-gateway)
 #
-## ModeBus Protocol
+## ModBus Protocol
 * ModBus TCP/IP Sample - [modbus-sample](https://github.com/awakelife93/modbus-sample)
 #
 ## Message Queue

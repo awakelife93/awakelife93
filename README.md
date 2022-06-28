@@ -15,10 +15,10 @@
 * Gateway Server - [spring-boot-api-gateway](https://github.com/awakelife93/spring-boot-api-gateway)
 #
 ## Message Queue
-* RabbitMQ Pup/Sub Server - [node-rabbitmq-pubsub](https://github.com/awakelife93/node-rabbitmq-pubsub)
-* SQS Pup/Sub Server - [node-sqs-pubsub](https://github.com/awakelife93/node-sqs-pubsub)
+* RabbitMQ Sample - [node-rabbitmq-sample](https://github.com/awakelife93/node-rabbitmq-sample)
+* SQS Sample - [node-sqs-sample](https://github.com/awakelife93/node-sqs-sample)
 * Action Server For Message Queue  - [node-message-action](https://github.com/awakelife93/node-message-action)
-* Kafka Pub/Sub Server - [spring-boot-kafka-pubsub](https://github.com/awakelife93/spring-boot-kafka-pubsub)
+* Kafka Sample - [spring-boot-kafka-sample](https://github.com/awakelife93/spring-boot-kafka-sample)
 #
 ## ETC
 * Thumbnail Maker - [node-fluent-ffmpeg-s3](https://github.com/awakelife93/thumbnail-maker)

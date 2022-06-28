@@ -16,9 +16,6 @@
 #
 ## ModeBus Protocol
 * ModBus TCP/IP Sample - [modbus-sample](https://github.com/awakelife93/modbus-sample)
-* SQS Sample - [node-sqs-sample](https://github.com/awakelife93/node-sqs-sample)
-* Action Server For Message Queue  - [node-message-action](https://github.com/awakelife93/node-message-action)
-* Kafka Sample - [spring-boot-kafka-sample](https://github.com/awakelife93/spring-boot-kafka-sample)
 #
 ## Message Queue
 * RabbitMQ Sample - [node-rabbitmq-sample](https://github.com/awakelife93/node-rabbitmq-sample)

@@ -20,7 +20,7 @@
 #
 ## ETC
 * Thumbnail Maker - [node-fluent-ffmpeg-s3](https://github.com/awakelife93/thumbnail-maker)
-* ModBus TCP/IP Sample - [modbus-sample](https://github.com/awakelife93/modbus-sample)
+* Modbus TCP/IP Sample - [modbus-sample](https://github.com/awakelife93/modbus-sample)
 
 <!--
 **HyunwooP/HyunwooP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -5,7 +5,6 @@
 ## Client
 * Web Front - [react-boilerplate](https://github.com/awakelife93/react-boilerplate)
 * Web Front - [react-admin-boilerplate](https://github.com/awakelife93/react-admin-boilerplate)
-* Mobile App - [react-native](https://github.com/awakelife93/react-native-template)
 #
 ## Server
 * API Server - [express-boilerplate](https://github.com/awakelife93/express-boilerplate)
